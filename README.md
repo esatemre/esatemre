@@ -1,5 +1,8 @@
 ## Hi there 👋
 <img src="https://myreadme.vercel.app/api/embed/esatemre?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+
 <!--
 **esatemre/esatemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
